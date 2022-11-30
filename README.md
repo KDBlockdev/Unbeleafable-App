@@ -9,4 +9,4 @@ There is also a Plant Identificaiton feature that allows the user to take a phot
 
 The user can also utilise the camera to detect if the plant is healthy or has a disease.
 
-Tech stack used in this porject includes - Node, React Native and React Web, Firebase, Javascript, HTML and CSS and Expo.
+Tech stack used in this project includes - Node, React Native and React Web, Firebase, Javascript, HTML and CSS and Expo.
